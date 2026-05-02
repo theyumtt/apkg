@@ -1,5 +1,6 @@
 {
     "google-chrome": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb",
     "ffmpeg": "http://ftp.bg.debian.org/debian/pool/main/f/ffmpeg/ffmpeg_8.1-3+b1_amd64.deb",
-    "firefox": "http://ftp.de.debian.org/debian/pool/main/f/firefox/firefox_150.0.1-1_amd64.deb"
+    "firefox": "http://ftp.de.debian.org/debian/pool/main/f/firefox/firefox_150.0.1-1_amd64.deb",
+    "firefox-esr": "http://ftp.de.debian.org/debian/pool/main/f/firefox-esr/firefox-esr_140.10.1esr-1_amd64.deb"
 }
