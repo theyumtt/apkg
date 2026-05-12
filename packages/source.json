@@ -21,6 +21,6 @@
         "url": "https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Ubuntu-24.04-x86_64.deb",
         "version": "32.1.2",
         "architecture": "amd64",
-        "description": "Open Broadcaster Software"
+        "description": "Open Broadcaster Software OBS"
     }
 }
